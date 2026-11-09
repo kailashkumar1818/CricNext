@@ -1,0 +1,10 @@
+{
+  "name": "cricbuzz-clone-mern",
+  "version": "1.0.0",
+  "description": "Full Stack Cricbuzz Cricket Portal (MERN Stack)",
+  "scripts": {
+    "seed": "npm --prefix backend run seed",
+    "backend": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend run dev"
+  }
+}
