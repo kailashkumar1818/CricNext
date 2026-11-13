@@ -1,4 +1,5 @@
-# 🏏 Cricbuzz Clone (MERN Stack)
+# 🏏 Cricnext
+(MERN Stack)
 
 A full-stack cricket web application modeled after Cricbuzz, built with MongoDB, Express, React, Node.js, and Tailwind CSS.
 
